@@ -9,13 +9,13 @@ Module 5
 * https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.sem.html
 * https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.plot.html
 * from AI-generated Google Search: import pandas as pd
-import matplotlib.pyplot as plt
+**import matplotlib.pyplot as plt
 
-# Create a data frame
-data = {'Year': [2017, 2018, 2019], 'Sales': [10000, 12000, 14000]}
-df = pd.DataFrame(data)
+**Create a data frame
+**data = {'Year': [2017, 2018, 2019], 'Sales': [10000, 12000, 14000]}
+**df = pd.DataFrame(data)
 
-# Plot the data frame as a bar chart
-plt.bar(df['Year'], df['Sales'])
-plt.title('Annual Sales')
-plt.show()
+**Plot the data frame as a bar chart
+**plt.bar(df['Year'], df['Sales'])
+**plt.title('Annual Sales')
+**plt.show()
