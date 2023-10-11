@@ -10,6 +10,7 @@ Module 5
 * https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.plot.html
 * https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.get.html
 * https://stackoverflow.com/questions/16476924/how-to-iterate-over-rows-in-a-dataframe-in-pandas
+* https://plainenglish.io/blog/use-python-to-find-the-interquartile-range-of-a-dataset-cbbb8542db9d
 * from AI-generated Google Search: import pandas as pd
 **import matplotlib.pyplot as plt
 
