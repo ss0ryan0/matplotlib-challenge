@@ -9,6 +9,7 @@ Module 5
 * https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.sem.html
 * https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.plot.html
 * https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.get.html
+* https://stackoverflow.com/questions/16476924/how-to-iterate-over-rows-in-a-dataframe-in-pandas
 * from AI-generated Google Search: import pandas as pd
 **import matplotlib.pyplot as plt
 
