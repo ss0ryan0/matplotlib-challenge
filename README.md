@@ -8,6 +8,7 @@ Module 5
 * https://www.r-bloggers.com/2022/06/how-to-join-multiple-data-frames-in-r/#:~:text=Fortunately%2C%20the%20left%20join(),makes%20this%20simple%20to%20accomplish.&text=We%20can%20easily%20conduct%20two,combine%20all%20three%20data%20frames.&text=connect%20the%20three%20data%20frames.&text=Notably%2C%20the%20outcome%20of%20this,saved%20as%20a%20data%20frame.
 * https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.sem.html
 * https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.plot.html
+* https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.get.html
 * from AI-generated Google Search: import pandas as pd
 **import matplotlib.pyplot as plt
 
